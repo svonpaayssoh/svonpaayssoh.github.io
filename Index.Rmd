@@ -6,5 +6,7 @@ output: html_document
 ---
 
 
-#My First Website
+# Hello,
+# My name is Samuel VonPaays Soh
+## This is My First Website
 ## DS6306 Doing Data Science
