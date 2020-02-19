@@ -1,0 +1,10 @@
+---
+title: "Website"
+author: "Samuel Vonpaays Soh"
+date: "2/18/2020"
+output: html_document
+---
+
+
+#My First Website
+## DS6306 Doing Data Science
